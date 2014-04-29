@@ -44,7 +44,7 @@
  distribution.
 */
 
-#import <Foundation/Foundation.h>
+@import Foundation;
 
 //
 // Usage:
